@@ -1,26 +1,26 @@
 # 🎓 ☀️ Three Space 3D
 
-Интерактивная модель Солнечной системы на <b>Three.js</b><br>
-🌍 Визуализация орбит, вращения планет и справочная информация о каждой из них.
+Interactive model of the Solar System on <b>Three.js</b><br>
+🌍 Visualization of orbits, planetary rotations, and reference information about each planet.
 
 ![ThreeJS](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)
 
-## 📷 Демонстрация
+## 📷 Demo
 ![Пример интерфейса](./assets/screenshot.png)
 
-Попробовать проект онлайн:  
-[![Открыть демо](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://acidless.github.io/three-space)
+Try project online:  
+[![Open demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://acidless.github.io/three-space)
 
-## 🚀 Возможности
+## 🚀 Features
 
-- 🌌 Структура Солнечной системы в 3D
-- 🪐 Анимация вращения планет вокруг своей оси и Солнца
-- 🔍 Клик по планете — показывает информацию о ней
-- 🌗 Реалистичные текстуры (NASA) и масштабированные размеры
-- 🎛️ Управление камерой (приближение, вращение, фокусировка)
+- 🌌 Structure of the Solar System in 3D
+- 🪐 Animation of planets rotating around their axes and the Sun
+- 🔍 Click on a planet to display information about it
+- 🌗 Realistic textures (NASA) and scaled sizes
+- 🎛️ Camera control (zoom, rotation, focus)
 
-## 🛠 Установка и запуск
+## 🛠 Installation
 
 ```bash
 git clone https://github.com/acidless/three-space.git
@@ -29,6 +29,6 @@ npm install
 npm run dev
 ```
 
-## 📝 Лицензия
+## 📝 License
 
-Этот проект распространяется под лицензией MIT.
+This project is distributed under the MIT license.
